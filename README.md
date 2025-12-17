@@ -1,7 +1,7 @@
 # life-expentancy-prediction-model
 Desinging a machine learning model that is able to predict life expectancy using dataset with vaious of features surrounding health factors and sociopolitical factors.
 
-# Clonning and Running the Project
+# Cloning and Running the Project
 This project requires installation of Anaconda or MiniConda to enable initialisation of its Conda environments (there is an `environment.yaml` file containing details of all dependencies in the prpoject folder.).   
 Once you have Anaconda or MiniConda Installed follow the steps below to initialise the environment by installing all dependencies and running the notebook with Jupyter Notebook.  
 
