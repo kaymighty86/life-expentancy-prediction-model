@@ -1,4 +1,4 @@
-# life-expentancy-prediction-model
+# Life Expentancy Prediction Machine Learning Project
 Desinging a machine learning model that is able to predict life expectancy using dataset with vaious of features surrounding health factors and sociopolitical factors.
 
 ### Cloning and Running the Project
