@@ -3,7 +3,7 @@ Using machine learning algorithms to predict life expectancy using dataset with 
 
 ### Cloning and Running the Project
 This project requires installation of Anaconda or MiniConda in your PC to enable initialisation of its Conda environments (there is an `environment.yaml` file containing details of all dependencies in the prpoject folder.).   
-Once you have Anaconda or MiniConda installed in your PC follow the steps below to install all dependencies and running the notebook with Jupyter Notebook.  
+Once you have Anaconda or MiniConda installed in your PC follow the steps below to install all dependencies and run the code in the notebook with Jupyter Notebook.  
 
 ### Installing all Dependencies in the Conda Environment  
 1. Clone this GIT repository into your local machine.
