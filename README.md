@@ -1,5 +1,5 @@
 # Life Expentancy Prediction Machine Learning Project
-Desinging a machine learning model that is able to predict life expectancy using dataset with vaious of features surrounding health factors and sociopolitical factors.
+Using machine learning algorithms to predict life expectancy using dataset with vaious of features surrounding health factors and sociopolitical factors.
 
 ### Cloning and Running the Project
 This project requires installation of Anaconda or MiniConda to enable initialisation of its Conda environments (there is an `environment.yaml` file containing details of all dependencies in the prpoject folder.).   
